@@ -1,0 +1,69 @@
+{
+  "id": "87076130-575a-43ba-884c-d0407c1e3780",
+  "name": "AssignRole",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "AssignRole-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "40507ccb-f9c2-4d98-9363-915f1ed26a6b",
+          "name": "UserType",
+          "required": false,
+          "dataType": "@UserType",
+          "value": "$UserType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "308a9955-b2a0-4f16-8734-9c34c6de7a0d",
+          "name": "HealthWorkerServiceType",
+          "required": false,
+          "dataType": "@HealthWorkerServiceType",
+          "value": "$HealthWorkerServiceType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome $UserType! Health workers can request blood, send custom messages, and send emergency alerts.\nBlood donors can make blood donation appointments and learn about the donation process."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

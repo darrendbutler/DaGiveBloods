@@ -1,0 +1,9 @@
+{
+  "id": "74a19eb0-3e5c-414e-886b-004028d9f789",
+  "name": "DonorServiceType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

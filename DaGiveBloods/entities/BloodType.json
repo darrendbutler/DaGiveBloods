@@ -1,0 +1,9 @@
+{
+  "id": "a1b42632-ff51-4243-8d94-7159572ee23a",
+  "name": "BloodType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

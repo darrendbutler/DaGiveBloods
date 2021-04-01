@@ -1,0 +1,129 @@
+[
+  {
+    "id": "780b34a8-f64a-49a7-8535-21bdb9282f68",
+    "data": [
+      {
+        "text": "Request blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2be36c7d-b64a-400b-9382-d78f20f7b341",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "request blood",
+        "meta": "@HealthWorkerServiceType",
+        "alias": "HealthWorkerServiceType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c97058de-f8b4-4de6-9850-77207f47ee21",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "health worker",
+        "meta": "@UserType",
+        "alias": "UserType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cc56f16-bfa0-4004-8949-ec853a240943",
+    "data": [
+      {
+        "text": "I am a blood ",
+        "userDefined": false
+      },
+      {
+        "text": "donor",
+        "meta": "@UserType",
+        "alias": "UserType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b023dc0c-dda8-4275-966f-878f16e44ac1",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "nurse",
+        "meta": "@UserType",
+        "alias": "UserType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4f89739-9beb-4910-8adc-43314cb48e43",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "donor",
+        "meta": "@UserType",
+        "alias": "UserType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "382a730f-0bda-4e83-848a-9f407c050732",
+    "data": [
+      {
+        "text": "I am a ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor",
+        "meta": "@UserType",
+        "alias": "UserType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

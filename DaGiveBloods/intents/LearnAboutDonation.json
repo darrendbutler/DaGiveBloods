@@ -1,0 +1,73 @@
+{
+  "id": "8480f3ab-4bb2-4101-a931-adc39b5eb515",
+  "name": "LearnAboutDonation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b7fc09c3-5796-4ac1-be1c-74e6a7f2df06",
+          "name": "donorservicetype",
+          "required": false,
+          "dataType": "@DonorServiceType",
+          "value": "$donorservicetype",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Every two seconds someone in the U.S needs blood.",
+            "Only 37 percent of the U.S. population is eligible to donate blood – less than 10 percent do annually",
+            "One pint of blood can save up to three lives."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "More than 4.5 million patients need blood transfusions each year in the U.S. and Canada.",
+            "42 days: how long most donated red blood cells can be stored."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Four main red blood cell types: A, B, AB and O. Each can be positive or negative for the Rh factor. AB is the universal recipient; O negative is the universal donor of red blood cells."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

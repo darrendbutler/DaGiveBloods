@@ -1,0 +1,42 @@
+{
+  "id": "4985fce6-d774-4e3d-b270-db2aae6e0dca",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! How are you doing? Are you a blood donor or health worker?",
+            "Hello! How can I help you? Are you a blood donor or health worker?",
+            "Good day! What can I do for you today? Are you a blood donor or health worker?",
+            "Greetings! How can I assist? Are you a blood donor or health worker?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

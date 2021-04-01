@@ -1,0 +1,27 @@
+[
+  {
+    "value": "A",
+    "synonyms": [
+      "a negative",
+      "a positive",
+      "a-",
+      "a+"
+    ]
+  },
+  {
+    "value": "B",
+    "synonyms": [
+      "B",
+      "b-",
+      "b+"
+    ]
+  },
+  {
+    "value": "O",
+    "synonyms": [
+      "O",
+      "o negative",
+      "o positive"
+    ]
+  }
+]

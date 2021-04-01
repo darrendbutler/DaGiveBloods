@@ -1,0 +1,32 @@
+[
+  {
+    "value": "a. blood request",
+    "synonyms": [
+      "blood request",
+      "need blood",
+      "need units",
+      "a. blood request",
+      "a",
+      "make a blood request"
+    ]
+  },
+  {
+    "value": "b. custom message",
+    "synonyms": [
+      "b. custom message",
+      "b",
+      "send custom message",
+      "custom message"
+    ]
+  },
+  {
+    "value": "c. send emergency alert",
+    "synonyms": [
+      "c. send emergency alert",
+      "emergency alert",
+      "c",
+      "alert",
+      "emergency"
+    ]
+  }
+]

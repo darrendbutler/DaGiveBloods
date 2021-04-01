@@ -1,0 +1,18 @@
+[
+  {
+    "value": "health worker",
+    "synonyms": [
+      "doctor",
+      "health worker",
+      "nurse",
+      "emt"
+    ]
+  },
+  {
+    "value": "donor",
+    "synonyms": [
+      "donor",
+      "blood donor"
+    ]
+  }
+]

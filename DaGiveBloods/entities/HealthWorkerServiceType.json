@@ -1,0 +1,9 @@
+{
+  "id": "4f8d2d3e-3cf2-4a4a-9d8f-dd053123717a",
+  "name": "HealthWorkerServiceType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

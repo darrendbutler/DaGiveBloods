@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ec6b5fb8-80c6-4082-b1e5-b0fdad9a4064",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c313d22-a158-4cc3-b233-669ce0d0a480",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

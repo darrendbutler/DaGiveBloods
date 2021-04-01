@@ -1,0 +1,83 @@
+[
+  {
+    "id": "e92fd935-cf63-4bd8-bcda-82c06d10332f",
+    "data": [
+      {
+        "text": "FAQ",
+        "meta": "@DonorServiceType",
+        "alias": "donorservicetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0236cff8-69fd-4a27-a60b-b1e0f1c094e6",
+    "data": [
+      {
+        "text": "teach",
+        "meta": "@DonorServiceType",
+        "alias": "donorservicetype",
+        "userDefined": true
+      },
+      {
+        "text": " me about blood donation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6a7079e-6741-40fd-9f09-2c3d43cc3476",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fact",
+        "meta": "@DonorServiceType",
+        "alias": "donorservicetype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0006147-cf8d-4a52-92e6-e8afd75e97e1",
+    "data": [
+      {
+        "text": "Learn",
+        "meta": "@DonorServiceType",
+        "alias": "donorservicetype",
+        "userDefined": false
+      },
+      {
+        "text": " about blood donation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
